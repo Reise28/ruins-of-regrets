@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 6b8fc57af23fb7de7846fed76ea71e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7040147332385924488
+    second: Plague Doctor Sprite Sheet_0
+  - first:
+      213: -5084934417338069846
+    second: Plague Doctor Sprite Sheet_1
+  - first:
+      213: -8010700113198698752
+    second: Plague Doctor Sprite Sheet_2
+  - first:
+      213: -1704677158832606486
+    second: Plague Doctor Sprite Sheet_3
+  - first:
+      213: 4084927568217793548
+    second: Plague Doctor Sprite Sheet_4
+  - first:
+      213: -2772714214919715942
+    second: Plague Doctor Sprite Sheet_5
+  - first:
+      213: -4312225846243360702
+    second: Plague Doctor Sprite Sheet_6
+  - first:
+      213: 3000958271451478475
+    second: Plague Doctor Sprite Sheet_7
+  - first:
+      213: -369592415149650229
+    second: Plague Doctor Sprite Sheet_8
+  - first:
+      213: -2670706620922805901
+    second: Plague Doctor Sprite Sheet_9
+  - first:
+      213: 5880261063382223970
+    second: Plague Doctor Sprite Sheet_10
+  - first:
+      213: -275220387084187924
+    second: Plague Doctor Sprite Sheet_11
+  - first:
+      213: -7502089177480644951
+    second: Plague Doctor Sprite Sheet_12
+  - first:
+      213: 8163682668759903579
+    second: Plague Doctor Sprite Sheet_13
+  - first:
+      213: 4433241818267296981
+    second: Plague Doctor Sprite Sheet_14
+  - first:
+      213: -1549241658940102859
+    second: Plague Doctor Sprite Sheet_15
+  - first:
+      213: -2269865577505809720
+    second: Plague Doctor Sprite Sheet_16
+  - first:
+      213: 7089965013542818221
+    second: Plague Doctor Sprite Sheet_17
+  - first:
+      213: -1401057881875406966
+    second: Plague Doctor Sprite Sheet_18
+  - first:
+      213: -7229473804080751744
+    second: Plague Doctor Sprite Sheet_19
+  - first:
+      213: 3795301428122044948
+    second: Plague Doctor Sprite Sheet_20
+  - first:
+      213: 6586656120947486249
+    second: Plague Doctor Sprite Sheet_21
+  - first:
+      213: -2211265079007180323
+    second: Plague Doctor Sprite Sheet_22
+  - first:
+      213: -207953651094372473
+    second: Plague Doctor Sprite Sheet_23
+  - first:
+      213: -4614461990994099585
+    second: Plague Doctor Sprite Sheet_24
+  - first:
+      213: 1209531492595618723
+    second: Plague Doctor Sprite Sheet_25
+  - first:
+      213: -1274043976038152789
+    second: Plague Doctor Sprite Sheet_26
+  - first:
+      213: -5455664064463097980
+    second: Plague Doctor Sprite Sheet_27
+  - first:
+      213: -6293728733834694991
+    second: Plague Doctor Sprite Sheet_28
+  - first:
+      213: -1830092671011293374
+    second: Plague Doctor Sprite Sheet_29
+  - first:
+      213: 9195475802949683314
+    second: Plague Doctor Sprite Sheet_30
+  - first:
+      213: 3018702409929596394
+    second: Plague Doctor Sprite Sheet_31
+  - first:
+      213: -5528952410741699411
+    second: Plague Doctor Sprite Sheet_32
+  - first:
+      213: -6513497752037120161
+    second: Plague Doctor Sprite Sheet_33
+  - first:
+      213: -1516028914201871042
+    second: Plague Doctor Sprite Sheet_34
+  - first:
+      213: -4223116560596353198
+    second: Plague Doctor Sprite Sheet_35
+  - first:
+      213: 8482117972777845985
+    second: Plague Doctor Sprite Sheet_36
+  - first:
+      213: 6588895008914519041
+    second: Plague Doctor Sprite Sheet_37
+  - first:
+      213: 1095227134021913293
+    second: Plague Doctor Sprite Sheet_38
+  - first:
+      213: 3638672023922593807
+    second: Plague Doctor Sprite Sheet_39
+  - first:
+      213: -5313926434888569238
+    second: Plague Doctor Sprite Sheet_40
+  - first:
+      213: 3271246032296728307
+    second: Plague Doctor Sprite Sheet_41
+  - first:
+      213: 693038945669086543
+    second: Plague Doctor Sprite Sheet_42
+  - first:
+      213: 1042609984143150447
+    second: Plague Doctor Sprite Sheet_43
+  - first:
+      213: 7027933250949893331
+    second: Plague Doctor Sprite Sheet_44
+  - first:
+      213: -1734639182555277326
+    second: Plague Doctor Sprite Sheet_45
+  - first:
+      213: -8098669612177521228
+    second: Plague Doctor Sprite Sheet_46
+  - first:
+      213: -6996960989322012787
+    second: Plague Doctor Sprite Sheet_47
+  - first:
+      213: 5594299863758729598
+    second: Plague Doctor Sprite Sheet_48
+  - first:
+      213: -8762320092682882296
+    second: Plague Doctor Sprite Sheet_49
+  - first:
+      213: 4418783341480582890
+    second: Plague Doctor Sprite Sheet_50
+  - first:
+      213: 1935464680063455775
+    second: Plague Doctor Sprite Sheet_51
+  - first:
+      213: 8953037292220785909
+    second: Plague Doctor Sprite Sheet_52
+  - first:
+      213: 3890962741328508874
+    second: Plague Doctor Sprite Sheet_53
+  - first:
+      213: -1328786282484850482
+    second: Plague Doctor Sprite Sheet_54
+  - first:
+      213: -4125240064779072286
+    second: Plague Doctor Sprite Sheet_55
+  - first:
+      213: -333852372491984331
+    second: Plague Doctor Sprite Sheet_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a19be2d4f5c4e90800000000000000
+      internalID: -7040147332385924488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac086ca61fae69b0800000000000000
+      internalID: -5084934417338069846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f2c9680b644d090800000000000000
+      internalID: -8010700113198698752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27f03e725c758e0800000000000000
+      internalID: -1704677158832606486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0462dcfaf390b830800000000000000
+      internalID: 4084927568217793548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 161
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c80cac175589d0800000000000000
+      internalID: -2772714214919715942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400863a075e724c0800000000000000
+      internalID: -4312225846243360702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b2abe5ab85a920800000000000000
+      internalID: 3000958271451478475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce835718a1fedaf0800000000000000
+      internalID: -369592415149650229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371cc907a7ebfead0800000000000000
+      internalID: -2670706620922805901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c457d3842ea9150800000000000000
+      internalID: 5880261063382223970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c6e024883e2cf0800000000000000
+      internalID: -275220387084187924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b6fe04a933e790800000000000000
+      internalID: -7502089177480644951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d627a522a3b4170800000000000000
+      internalID: 8163682668759903579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4aa3502f9068d30800000000000000
+      internalID: 4433241818267296981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53763af5becff7ae0800000000000000
+      internalID: -1549241658940102859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca11e49841df70e0800000000000000
+      internalID: -2269865577505809720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 133
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1da269d9d946260800000000000000
+      internalID: 7089965013542818221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1e0197417e8ce0800000000000000
+      internalID: -1401057881875406966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 129
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b56cae0efbbab90800000000000000
+      internalID: -7229473804080751744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4fbe5a8e9ba430800000000000000
+      internalID: 3795301428122044948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e2aba28d0886b50800000000000000
+      internalID: 6586656120947486249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90d8d50220051e0800000000000000
+      internalID: -2211265079007180323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f36c091433d1df0800000000000000
+      internalID: -207953651094372473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 97
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724145844326ffb0800000000000000
+      internalID: -4614461990994099585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35fc0fb7e19c010800000000000000
+      internalID: 1209531492595618723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5050401cfa15ee0800000000000000
+      internalID: -1274043976038152789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f20df40769944b0800000000000000
+      internalID: -5455664064463097980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2d1bef0f28a8a0800000000000000
+      internalID: -6293728733834694991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247735679643a96e0800000000000000
+      internalID: -1830092671011293374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780487e584ec9f70800000000000000
+      internalID: 9195475802949683314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed187a19d594e920800000000000000
+      internalID: 3018702409929596394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac83b973173543b0800000000000000
+      internalID: -5528952410741699411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a584fd486b95a0800000000000000
+      internalID: -6513497752037120161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db6cb1cbbf5fae0800000000000000
+      internalID: -1516028914201871042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb598fcd97465c0800000000000000
+      internalID: -4223116560596353198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 67
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e441662b5986b570800000000000000
+      internalID: 8482117972777845985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 80
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b1b4e915707b50800000000000000
+      internalID: 6588895008914519041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcacebf8647033f00800000000000000
+      internalID: 1095227134021913293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00de006de82f7230800000000000000
+      internalID: 3638672023922593807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea8e5df042146b0800000000000000
+      internalID: -5313926434888569238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d3ff3fecc56d20800000000000000
+      internalID: 3271246032296728307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dfd1ccf3b2e9900800000000000000
+      internalID: 693038945669086543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dc020b148187e00800000000000000
+      internalID: 1042609984143150447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc46006e0c388160800000000000000
+      internalID: 7027933250949893331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7915e9ad25de7e0800000000000000
+      internalID: -1734639182555277326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b588e475eebb9f80800000000000000
+      internalID: -8098669612177521228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87123c3d0dc5ee90800000000000000
+      internalID: -6996960989322012787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fa521612f2ad40800000000000000
+      internalID: 5594299863758729598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037e5bec4cf56680800000000000000
+      internalID: -8762320092682882296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1d50990ca25d30800000000000000
+      internalID: 4418783341480582890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125f7a3fd62cda10800000000000000
+      internalID: 1935464680063455775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f425a76bf39f3c70800000000000000
+      internalID: 8953037292220785909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77a2f7ff97ff530800000000000000
+      internalID: 3890962741328508874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec024129ae33f8de0800000000000000
+      internalID: -1328786282484850482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec42ad740430c6c0800000000000000
+      internalID: -4125240064779072286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague Doctor Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 117
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a13a390bed5bf0800000000000000
+      internalID: -333852372491984331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
