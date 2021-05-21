@@ -15,7 +15,7 @@ public class Player : Unit
         this.rigidBody = GetComponent<Rigidbody2D>();
         this.animator.animator = GetComponent<Animator>();
         this.spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        this.stat.setStat(3f, 0.2f, 3);
+        this.stat.setStat(5f, 0.2f, 3);
 
         Player.Instance = this;
     }
